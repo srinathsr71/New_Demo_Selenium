@@ -1,0 +1,3 @@
+cookies :-
+driver.manage().deleteAllCookies(); //used for deleating all the cookies
+			driver.manage().deleteCookieNamed("abcd"); //deleat specific cookie

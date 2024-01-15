@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T14:48:28Z" name="Default suite" finished-at="2022-11-21T14:49:06Z" duration-ms="37900">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T14:48:28Z" name="Default test" finished-at="2022-11-21T14:49:06Z" duration-ms="37900">
+      <class name="mjsexecutor.demo1test">
+        <test-method is-config="true" signature="test1()[pri:0, instance:mjsexecutor.demo1test@7a220c9a]" started-at="2022-11-21T20:18:28Z" name="test1" finished-at="2022-11-21T20:18:56Z" duration-ms="27484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:mjsexecutor.demo1test@7a220c9a]" started-at="2022-11-21T20:18:56Z" name="test2" finished-at="2022-11-21T20:19:06Z" duration-ms="10323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- mjsexecutor.demo1test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
